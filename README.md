@@ -7,8 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sergeantdexter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sergeantdexter" height="30" width="40" /></a>
-<a href="https://instagram.com/cassio_vsouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cassio_vsouza" height="30" width="40" /></a>
-<a href="https://discord.gg/dexter#9788" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dexter#9788" height="30" width="40" /></a>
+<a href="https://instagram.com/cassio_vsouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cassio_vsouza" height="30" width="40" /></a></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
