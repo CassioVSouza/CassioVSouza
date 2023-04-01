@@ -20,6 +20,8 @@
 <a href="https://instagram.com/cassio_vsouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cassio_vsouza" height="30" width="40" /></a></a>
 </p><br><br>
 
+![Travis](https://steam-stat.vercel.app/api?profileName=dexterLDP)
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=p4cvnfr1lyd5s0f7f8lnhtev2&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=p4cvnfr1lyd5s0f7f8lnhtev2&redirect=true)<br><br>
 
 <h3 align="left">Languages and Tools:</h3>
