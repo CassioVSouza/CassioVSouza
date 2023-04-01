@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">Just a junior frontend developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cassiovsouza&label=Profile%20views&color=0e75b6&style=flat" alt="cassiovsouza" /> </p>
 
@@ -9,6 +9,10 @@
 - 📫 How to reach me **cassiosouza248@gmail.com**
 
 - 👨‍💻 All of my projects are available at [Junior Projects](https://github.com/CassioVSouza/Junior-Projects)
+
+- 🎮 Favorite Games: The Witcher 3, Grand Theft Auto San Andreas/V, Resident Evil VII and Red Dead Redemption
+
+- 📺 Favorite TV Shows: The Office, Doctor Who, The Last Of Us, Friends and How I met your mother
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
