@@ -18,7 +18,9 @@
 <p align="left">
 <a href="https://twitter.com/sergeantdexter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sergeantdexter" height="30" width="40" /></a>
 <a href="https://instagram.com/cassio_vsouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cassio_vsouza" height="30" width="40" /></a></a>
-</p><br><br>
+</p>
+
+<h3>My Steam</h3>
 
 ![Travis](https://steam-stat.vercel.app/api?profileName=dexterLDP)
 
