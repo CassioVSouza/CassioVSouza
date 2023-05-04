@@ -1,4 +1,4 @@
-
+<div align="center">
 <p align="center">
   <img src="fogueira.gif" alt="animated" />
 </p>
@@ -46,9 +46,12 @@
 
 ![Travis](https://steam-stat.vercel.app/api?profileName=dexterLDP)
 
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=p4cvnfr1lyd5s0f7f8lnhtev2&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=p4cvnfr1lyd5s0f7f8lnhtev2&redirect=true)<br><br>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cassiovsouza&" alt="cassiovsouza" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cassiovsouza&label=Profile%20views&color=0e75b6&style=flat" alt="cassiovsouza" /> </p>
+
+</div>
