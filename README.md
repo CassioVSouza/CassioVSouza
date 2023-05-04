@@ -1,8 +1,10 @@
-<h3 align="center">Just a future frontend developer from Brazil</h3>
+<h3 align="center">Welcome to Cassio's GitHub :smiley:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cassiovsouza&label=Profile%20views&color=0e75b6&style=flat" alt="cassiovsouza" /> </p>
+<p align="center">
+  <img src="fogueira.gif" alt="animated" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cassiovsouza" alt="cassiovsouza" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cassiovsouza" alt="cassiovsouza" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -31,3 +33,5 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cassiovsouza&" alt="cassiovsouza" /></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cassiovsouza&label=Profile%20views&color=0e75b6&style=flat" alt="cassiovsouza" /> </p>
