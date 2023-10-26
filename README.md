@@ -7,7 +7,7 @@
 
 <h3 align="center">Welcome to Cassio's GitHub :smiley:</h3>
 
-<p align="center" style = 'font-size:30px'>Hi, my name is Cássio Venâncio de Souza, I'm 18 years old and I'm currently studying Front-End Development. I already have experience with some mini projects that you can access in this profile. I have experience and skill with HTML5, CSS3, basic JavaScript, Bootstrap and Figma. Styling and building websites has always been something I've always been passionate about, I started programming at the age of 14 when I built game servers for fun, it was like that until I make 16, then I decided to stop for a while. I return to programming at the age of 18 to raise my skills and competences to a professional level.<p>
+<p align="center">Hi, my name is Cássio Venâncio de Souza, I'm 18 years old and I'm currently studying Front-End Development. I already have experience with some mini projects that you can access in this profile. I have experience and skill with HTML5, CSS3, basic JavaScript, Bootstrap and Figma. Styling and building websites has always been something I've always been passionate about, I started programming at the age of 14 when I built game servers for fun, it was like that until I make 16, then I decided to stop for a while. I return to programming at the age of 18 to raise my skills and competences to a professional level.<p>
 
 <h2 align="center">:books:Learning </h2>
 <p align="center">JavaScript</p>
