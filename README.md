@@ -38,7 +38,7 @@
 
 <h3 align="center">My Steam</h3>
 
-![Travis](https://steam-stat.vercel.app/api?profileName=dexterLDP)
+<img src="https://github-readme-steam-status.vercel.app/status/?steamid=<SteamID64 76561198822872225>"/>
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=p4cvnfr1lyd5s0f7f8lnhtev2&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=p4cvnfr1lyd5s0f7f8lnhtev2&redirect=true)<br><br>
