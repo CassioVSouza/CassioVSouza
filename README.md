@@ -17,7 +17,7 @@
 <p align="center">C#</p>
 
 <h2 align="center">:email:Contact</h2>
-<p align="center">cassiocontatoprof@gmail.com</p>
+<p align="center">cassiovenanciosouza@gmail.com</p>
 
 <h2 align="center">:video_game:Games</h2>
 <p align="center">The Witcher 3, Grand Theft Auto San Andreas/V, Resident Evil VII and Red Dead Redemption</p>
