@@ -7,7 +7,7 @@
 
 <h3 align="center">Welcome to Cassio's GitHub :smiley:</h3>
 
-<p align="center">Hi, my name is Cássio Venâncio de Souza, I'm 19 years old and I'm currently studying C#. I started programming at the age of 14 when I built game servers for fun, it was like that until I make 16, then I decided to stop for a while. I return to programming at the age of 18 to raise my skills and competences to a professional level.<p>
+<p align="center">Hi, my name is Cássio Venâncio de Souza, I'm 20 years old and I'm a FullStack C# Developer. I started programming at the age of 14 when I built game servers for fun, it was like that until I make 16, then I decided to stop for a while. I return to programming at the age of 18 to raise my skills and competences to a professional level.<p>
 
 
 <h3 align="center">Languages and Tools</h3>
