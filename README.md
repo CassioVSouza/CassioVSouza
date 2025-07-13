@@ -19,24 +19,6 @@
 <h2 align="center">:email:Contact</h2>
 <p align="center">cassiovenanciosouza@gmail.com</p>
 
-<h2 align="center">:video_game:Games</h2>
-<p align="center">The Witcher 3, Grand Theft Auto San Andreas/V, Resident Evil VII and Red Dead Redemption</p>
-
-<p align="center">
-  <img src="witcher.gif" alt="animated" />
-</p>
-
-<h2 align="center">📺 Favorite TV Shows</h2>
-<p align="center"> The Office, Doctor Who, The Last Of Us, Friends and How I met your mother</p>
-
-<p align="center">
-  <img src="doctor.gif" alt="animated" />
-</p>
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=p4cvnfr1lyd5s0f7f8lnhtev2&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=p4cvnfr1lyd5s0f7f8lnhtev2&redirect=true)<br><br>
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cassiovsouza&" alt="cassiovsouza" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cassiovsouza&label=Profile%20views&color=0e75b6&style=flat" alt="cassiovsouza" /> </p>
