@@ -16,7 +16,6 @@
 <h2 align="center">:email:Contact</h2>
 <p align="center">cassiovenanciosouza@gmail.com</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cassiovsouza&" alt="cassiovsouza" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cassiovsouza&label=Profile%20views&color=0e75b6&style=flat" alt="cassiovsouza" /> </p>
 
