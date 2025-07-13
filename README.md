@@ -13,9 +13,6 @@
 <h3 align="center">Languages and Tools</h3>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"></p>
 
-<h2 align="center">:books:Learning </h2>
-<p align="center">C#</p>
-
 <h2 align="center">:email:Contact</h2>
 <p align="center">cassiovenanciosouza@gmail.com</p>
 
